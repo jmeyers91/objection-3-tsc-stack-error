@@ -1,0 +1,14 @@
+{
+  "name": "objection-3-tsc-stack-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Meyers <james.meyers@emberex.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx -p typescript tsc"
+  },
+  "dependencies": {
+    "objection": "^3.0.1",
+    "typescript": "^4.5.4"
+  }
+}
